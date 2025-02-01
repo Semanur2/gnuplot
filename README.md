@@ -28,9 +28,6 @@ Y-Axis: Energy (kJ/mol)
 Grid: Added for better readability.
 Purple Line: Raw interaction energy data.
 Red Line: Smoothed data showing a 10-ps running average using Bezier smoothing.
-Example Output:
-After running the above Gnuplot command, the output will look something like this:
-
 
 Notes
 Make sure you have Gnuplot installed on your system.
